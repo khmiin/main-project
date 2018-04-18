@@ -1,3 +1,4 @@
 [submodule "submodule-project"]
 	path = submodule-project
 	url = https://github.com/khmiin/submodule-project
+	branch = v1
